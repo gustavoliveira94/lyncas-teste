@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555314525062",
+    "firebase_url": "https://rntest-61a0a.firebaseio.com",
+    "project_id": "rntest-61a0a",
+    "storage_bucket": "rntest-61a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555314525062:android:4c0e2fe922448df0",
+        "android_client_info": {
+          "package_name": "com.rntest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555314525062-nap23b59ugt8d7kmnfqji5n21knausc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmiGMmILMFr_S9VhGueNj-E4MTdtX3zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555314525062-nap23b59ugt8d7kmnfqji5n21knausc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
