@@ -19,6 +19,6 @@ I had not many difficulty in specific.
 
 ## Built With
 
-* [REACT NATIVE](https://facebook.github.io/react-native/) - The web framework used
+* [REACT NATIVE](https://facebook.github.io/react-native/) - The mobile framework used
 * [FIREBASE](https://www.npmjs.com/package/react-native-firebase) - Package NPM
 * [REDUX](https://redux.js.org/) - Lib
