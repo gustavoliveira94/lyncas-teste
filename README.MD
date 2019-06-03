@@ -8,6 +8,12 @@ cd rntest
 npm install or yarn install
 ```
 
+## How to execute on device Android
+
+```sh
+react-native run-android
+```
+
 ## Technologys Used for build
 
 I used to create the app React Native, Firebase and Redux.
