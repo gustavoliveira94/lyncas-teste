@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-cd rntest
+cd lyncas-teste
 npm install or yarn install
 ```
 
